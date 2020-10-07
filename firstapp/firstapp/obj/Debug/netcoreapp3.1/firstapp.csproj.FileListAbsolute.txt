@@ -1,0 +1,13 @@
+C:\Users\William\Documents\vs2019\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.exe
+C:\Users\William\Documents\vs2019\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.deps.json
+C:\Users\William\Documents\vs2019\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.runtimeconfig.json
+C:\Users\William\Documents\vs2019\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.runtimeconfig.dev.json
+C:\Users\William\Documents\vs2019\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.dll
+C:\Users\William\Documents\vs2019\firstapp\firstapp\bin\Debug\netcoreapp3.1\firstapp.pdb
+C:\Users\William\Documents\vs2019\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.csprojAssemblyReference.cache
+C:\Users\William\Documents\vs2019\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.AssemblyInfoInputs.cache
+C:\Users\William\Documents\vs2019\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.AssemblyInfo.cs
+C:\Users\William\Documents\vs2019\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\vs2019\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.dll
+C:\Users\William\Documents\vs2019\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.pdb
+C:\Users\William\Documents\vs2019\firstapp\firstapp\obj\Debug\netcoreapp3.1\firstapp.genruntimeconfig.cache
